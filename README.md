@@ -76,10 +76,7 @@ gcloud run services delete cloud-run-intermediate-service --region us-central1
 gsutil rm -r gs://YOUR_BUCKET_NAME
 gcloud container images delete gcr.io/YOUR_PROJECT_ID/cloud-run-intermediate-app --force-delete-tags
 gcloud iam service-accounts delete YOUR_SERVICE_ACCOUNT_EMAIL
-<img width="1903" height="683" alt="image" src="https://github.com/user-attachments/assets/029976be-d685-4866-8247-94446531f983" />
-<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/291d9215-f11a-4466-8ba1-e84cdbc05d11" />
-<img width="1919" height="769" alt="image" src="https://github.com/user-attachments/assets/fe1fbc00-a028-42d8-be29-67b118e293da" />
-<img width="1919" height="780" alt="image" src="https://github.com/user-attachments/assets/b4f57ab6-9dcb-4824-a701-b5b344ae7c55" />
+
 
 ```
 
